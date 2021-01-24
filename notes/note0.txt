@@ -1,0 +1,29 @@
+HurtBoxes: x: 192 / 320 y: 128 (Ducking: 256) / 512
+
+Frames{
+	Kick: 8 / 16
+	Uppercut: 8 / 24
+	DiveKick: slight jump height / until landing
+}
+
+Check if ducking by checking "sprite_index";
+At the moment all standard attacks borrow Stickmans hitboxes.
+
+AUDIO:		Intro quote			Win quote
+Simon:		Nu ede dags fjolla	Hehe. Tvärsynd.
+Lucas:		Fan sägeru boy!?	
+LilLucas:	Takweando			Käft jävla bög
+Christian:	
+Rebecca:	
+Felix:		Man ska ju ba må	Tjurig tjurig!
+William:	
+Charlotte:	Nu ska du dö?		Alla är vinnare!
+Sol:		
+
+
+TODO{
+	Fixa kontroll kontrol.
+	Fixa stage select.
+	Fixa intro quotes / special happenings.
+	Fixa main menu?
+}
