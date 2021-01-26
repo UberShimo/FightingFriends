@@ -20,4 +20,4 @@ global.P2_attack = vk_numpad1;
 global.P2_ability = vk_numpad2;
 
 
-room_goto(Character_Select);
+room_goto(Main_Menu);

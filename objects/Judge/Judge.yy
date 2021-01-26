@@ -5,16 +5,6 @@
     "name": "Judge",
     "eventList": [
         {
-            "id": "07c02221-95e8-4c13-a8f8-355e7636cc89",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 27,
-            "eventtype": 9,
-            "m_owner": "e25d8d4f-77ee-4ef7-be03-c8e7e0c8320c"
-        },
-        {
             "id": "da6d19ba-36fb-421f-8b07-bf1a00d2a041",
             "modelName": "GMEvent",
             "mvc": "1.0",
