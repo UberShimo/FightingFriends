@@ -6,9 +6,9 @@
     "For3D": false,
     "HTile": false,
     "VTile": false,
-    "bbox_bottom": 374,
-    "bbox_left": 260,
-    "bbox_right": 399,
+    "bbox_bottom": 359,
+    "bbox_left": 256,
+    "bbox_right": 383,
     "bbox_top": 0,
     "bboxmode": 0,
     "colkind": 1,
@@ -38,8 +38,8 @@
             ]
         }
     ],
-    "gridX": 0,
-    "gridY": 0,
+    "gridX": 64,
+    "gridY": 64,
     "height": 512,
     "layers": [
         {

@@ -1,9 +1,6 @@
 event_inherited();
 
-cd = 240; // Ability cooldown
-ms = 8; // speed
-jumpPower = 56;
-weight = 4;
+cd = 240; // Ability cooldowns
 
 // Sprite init
 standSprite = Spr_William_Stand;

@@ -11,7 +11,10 @@
         "77874053-188b-4ced-9c1c-a6ab4fddad4f",
         "3ec86d0c-24ea-48fe-82db-15c48ea65544",
         "3b7b929e-b7a6-4f9f-a6cd-88818d17e549",
-        "b3eb3ed4-dd11-492c-b84b-fc2053e56189"
+        "b3eb3ed4-dd11-492c-b84b-fc2053e56189",
+        "fdf1dfb1-6124-4762-89c8-56d43d5601f4",
+        "917e9483-519d-4f61-9047-ee4d72450669",
+        "55170811-3064-4aaf-9918-6b5c4ee9a782"
     ],
     "filterType": "GMSprite",
     "folderName": "Portraits",

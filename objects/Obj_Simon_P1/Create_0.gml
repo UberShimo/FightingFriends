@@ -1,9 +1,7 @@
 event_inherited();
 
 cd = 240; // Ability cooldown
-ms = 8; // speed
-jumpPower = 48;
-weight = 4;
+jumpPower = 52; // Simon jump shorter
 
 hasExtraJump = true; // Simons extra jump
 

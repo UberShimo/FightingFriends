@@ -39,7 +39,7 @@ if(controllable){
 	if(attack_check && action == "none"){
 		// Air
 		if(place_free(x, y+2)){
-			if(vspeed > -(jumpPower / 2)){
+			if(vspeed > -(jumpPower / 2) && vspeed < jumpPower / 2){
 				action = "divekick";
 				sprite_index = Spr_Christian_DiveKick;
 				image_index = 0;

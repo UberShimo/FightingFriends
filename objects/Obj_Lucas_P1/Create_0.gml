@@ -1,10 +1,7 @@
 event_inherited();
 
-HP = 120;
+HP = 120; // Lucas has more HP
 cd = 240; // Ability cooldown
-ms = 8; // speed
-jumpPower = 56;
-weight = 4;
 
 // Sprite init
 standSprite = Spr_Lucas_Stand;

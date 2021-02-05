@@ -1,9 +1,7 @@
 event_inherited();
 
-cd = 60; // Ability cooldown
-ms = 12; // Christian is fast
-jumpPower = 56;
-weight = 4;
+cd = 120; // Ability cooldown
+ms = 20; // Christian is fast
 
 // Sprite init
 standSprite = Spr_Christian_Stand;

@@ -4,7 +4,7 @@ if(other.spawner == 2){
 	
 	// Air
 	if(place_free(x, y+2)){
-		if(x < Obj_Player2.x){
+		if(other.image_xscale < 0){
 			hspeed = -other.hitpush;
 		}
 		else{
@@ -17,7 +17,7 @@ if(other.spawner == 2){
 		alarm[0] = other.hitstun;
 		friction = 1;
 	
-		if(x < Obj_Player2.x){
+		if(other.image_xscale < 0){
 			hspeed = -other.hitpush;
 		}
 		else{
@@ -36,6 +36,6 @@ if(HP <= 0){
 	Obj_Player2.controllable = false;
 	visible = false;
 	
-	Spawn_Blood(self, 32);
+	Spawn_Blood(x, y, 32);
 	Judge.alarm[11] = 120; // Go to character select
 }

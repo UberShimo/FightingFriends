@@ -5,13 +5,13 @@
     "name": "To_Main_Menu",
     "eventList": [
         {
-            "id": "ef3b9a2b-af48-46ed-ab63-e756fee17806",
+            "id": "8ea0c7c6-2a82-42e5-8959-46f87d804670",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 27,
-            "eventtype": 5,
+            "enumb": 0,
+            "eventtype": 3,
             "m_owner": "34a9bc1f-fad3-459e-ab5c-c74b433e9844"
         }
     ],

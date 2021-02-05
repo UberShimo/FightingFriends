@@ -1,12 +1,13 @@
-HurtBoxes: x: 192 / 320 y: 128 (Ducking: 256) / 512
+HurtBoxes:
+x: 192 / 320 (DiveKick:511)
+y: 128 (Ducking: 256) / 512
 
 Frames{
-	Kick: 8 / 16
+	Kick: 8 / 24
 	Uppercut: 8 / 24
 	DiveKick: slight jump height / until landing
 }
 
-Check if ducking by checking "sprite_index";
 At the moment all standard attacks borrow Stickmans hitboxes.
 
 AUDIO:		Intro quote			Win quote
@@ -22,8 +23,6 @@ Sol:
 
 
 TODO{
-	Fixa kontroll kontrol.
 	Fixa stage select.
 	Fixa intro quotes / special happenings.
-	Fixa main menu?
 }

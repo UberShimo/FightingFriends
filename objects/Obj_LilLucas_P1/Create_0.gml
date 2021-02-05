@@ -1,9 +1,8 @@
 event_inherited();
 
 cd = 240; // Ability cooldown
-ms = 8; // speed
 jumpPower = 38;
-weight = 2;
+weight = 2; // Lucas is light
 
 // Sprite init
 standSprite = Spr_LilLucas_Stand;

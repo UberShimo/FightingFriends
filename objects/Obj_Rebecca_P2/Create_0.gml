@@ -1,9 +1,7 @@
 event_inherited();
 
 cd = 2; // Ability cooldown
-ms = 8; // speed
-jumpPower = 50;
-weight = 4;
+jumpPower = 50; // Has short enough jump to get 2 divekicks in a row!
 
 // Sprite init
 standSprite = Spr_Rebecca_Stand;

@@ -2,7 +2,7 @@ controllable = false; // Controls if you can control your character or not
 
 HP = 100;
 cd = 120; // Ability cooldown
-ms = 8; // speed
+ms = 12; // speed
 jumpPower = 56;
 weight = 4;
 action = "none";

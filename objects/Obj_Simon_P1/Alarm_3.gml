@@ -22,10 +22,10 @@ else if(action == "ability"){
 	hitbox.vspeed = -30;
 	
 	if(image_xscale > 0){
-		hitbox.hspeed = 6;
+		hitbox.hspeed = 8;
 	}
 	else{
-		hitbox.hspeed = -6;
+		hitbox.hspeed = -8;
 	}
 	abilityReady = false;
 	alarm[1] = cd;
