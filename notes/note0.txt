@@ -23,6 +23,7 @@ Sol:
 
 
 TODO{
+	Porträtt med en liten prat bubbla där man beskriver sig i själv i character select.
 	Fixa stage select.
 	Fixa intro quotes / special happenings.
 }

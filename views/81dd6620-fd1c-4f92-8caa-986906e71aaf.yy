@@ -12,7 +12,8 @@
         "e70d9f05-06c4-42b5-8933-9de68fe3772e",
         "0e96fda2-3a9f-455b-b330-3d9134925bb6",
         "4d39954a-46ec-40bc-a200-f2fcaa57f1c4",
-        "8bd337e9-4d7f-4295-9442-2de0f13e1436"
+        "8bd337e9-4d7f-4295-9442-2de0f13e1436",
+        "fcb2754c-84c8-4cde-a4f4-51a87225d6d8"
     ],
     "filterType": "GMSprite",
     "folderName": "Lucas",

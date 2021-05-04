@@ -335,6 +335,14 @@
             }
         },
         {
+            "Key": "21929f01-f1c8-4b5f-a172-ea6fc3020e5a",
+            "Value": {
+                "id": "b1810c8d-dbad-4bf4-8327-cba5f1c176b8",
+                "resourcePath": "sprites\\William_Cigg_Spr\\William_Cigg_Spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "21cfa19d-473a-4b4f-9aa3-2ee44f530314",
             "Value": {
                 "id": "41243620-5ed9-453d-9cd2-66ef7f4825ea",
@@ -2071,6 +2079,14 @@
             }
         },
         {
+            "Key": "f40947a9-5ea7-43d8-a5e1-bacec9ad0f76",
+            "Value": {
+                "id": "f5cc29ef-c5d1-43f5-8d81-8cdb2c0e6b04",
+                "resourcePath": "objects\\Obj_William_Cigg\\Obj_William_Cigg.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f54576db-dafa-4186-bd64-157742b96f1a",
             "Value": {
                 "id": "9b2b0b9e-0679-43d2-b3aa-8d28f8b1aac0",
@@ -2155,6 +2171,14 @@
             "Value": {
                 "id": "3a3d0698-e842-4095-870b-1ebce598c262",
                 "resourcePath": "sprites\\Spr_Charlotte_Ability2\\Spr_Charlotte_Ability2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fcb2754c-84c8-4cde-a4f4-51a87225d6d8",
+            "Value": {
+                "id": "d6d05c24-ee77-4b4d-a32e-e3084dba94b5",
+                "resourcePath": "sprites\\Spr_Lucas_Ability_Hitbox\\Spr_Lucas_Ability_Hitbox.yy",
                 "resourceType": "GMSprite"
             }
         },

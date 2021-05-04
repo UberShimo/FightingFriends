@@ -11,7 +11,8 @@
         "db61266c-14fc-485a-b7d8-33eea8697158",
         "da230e75-49e3-4237-8741-69920da459f7",
         "b367a451-e620-4d03-b882-cf40e0d83b6d",
-        "37428caf-d877-4f5c-9e66-7563c236e80c"
+        "37428caf-d877-4f5c-9e66-7563c236e80c",
+        "21929f01-f1c8-4b5f-a172-ea6fc3020e5a"
     ],
     "filterType": "GMSprite",
     "folderName": "William",

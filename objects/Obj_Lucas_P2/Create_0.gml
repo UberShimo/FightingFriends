@@ -1,6 +1,5 @@
 event_inherited();
 
-HP = 120; // Lucas has more HP
 cd = 240; // Ability cooldown
 
 // Sprite init

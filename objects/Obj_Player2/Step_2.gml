@@ -1,6 +1,6 @@
 /// @description Various fixes
 
-// Sprite
+// Face correct way
 if(!place_free(x, y+32) && action == "none"){
 	if(x < Obj_Player1.x){
 		image_xscale = 1;
