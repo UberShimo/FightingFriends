@@ -53,6 +53,15 @@ if(attack_pressed){
 	else if(place_meeting(x, y, Obj_Felix_Portrait)){
 		global.P1_pick = Obj_Felix_P1;
 	}
+	else if(place_meeting(x, y, Obj_Pontus_Portrait)){
+		global.P1_pick = Obj_Pontus_P1;
+	}
+	else if(place_meeting(x, y, Obj_Victor_Portrait)){
+		global.P1_pick = Obj_Victor_P1;
+	}
+	else if(place_meeting(x, y, Obj_Anders_Portrait)){
+		global.P1_pick = Obj_Anders_P1;
+	}
 	else{
 		global.P1_pick = noone;
 	}

@@ -13,7 +13,10 @@
         "a4d301ab-7a34-4993-bc41-ae34e0883afa",
         "546e37f6-e14a-4cb2-860a-82c1f29a1f17",
         "454c7ba3-152c-4c28-af2e-4391abc0b947",
-        "eef50d17-867c-48f0-97fe-634d0940ffca"
+        "eef50d17-867c-48f0-97fe-634d0940ffca",
+        "9eef4897-f496-4359-9e5a-90ca889dfcfd",
+        "2ade7e7d-bde0-4add-861b-2a2f3b9d03c7",
+        "064bcc9d-a7a2-44af-a0d7-46fb828d95bc"
     ],
     "filterType": "GMObject",
     "folderName": "Portraits",

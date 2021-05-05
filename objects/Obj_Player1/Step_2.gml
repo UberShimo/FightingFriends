@@ -23,7 +23,9 @@ if(hspeed == 0){
 // Out of bounds
 while(x < 0){
 	x += 1;
+	hspeed = 0;
 }
 while(x > room_width){
 	x -= 1;
+	hspeed = 0;
 }

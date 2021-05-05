@@ -28,5 +28,14 @@ else if(global.P1_pick == Obj_Sol_P1){
 else if(global.P1_pick == Obj_Felix_P1){
 	sprite_index = Spr_Felix_Portrait;
 }
+else if(global.P1_pick == Obj_Pontus_P1){
+	sprite_index = Spr_Pontus_Portrait;
+}
+else if(global.P1_pick == Obj_Victor_P1){
+	sprite_index = Spr_Victor_Portrait;
+}
+else if(global.P1_pick == Obj_Anders_P1){
+	sprite_index = Spr_Anders_Portrait;
+}
 
 depth = 15;

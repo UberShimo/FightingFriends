@@ -8,6 +8,10 @@ Frames{
 	DiveKick: slight jump height / until landing
 }
 
+Tips n tricks:
+Uppercut combo into Kick if close enough.
+Uppercut infinite against walls...
+
 At the moment all standard attacks borrow Stickmans hitboxes.
 
 AUDIO:		Intro quote			Win quote
