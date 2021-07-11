@@ -2,7 +2,7 @@
     "id": "d3e5a383-f0e6-4740-958a-1eb93ce0e76f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Obj_Sol_Ability_Hitbox",
+    "name": "Obj_Sol_Spin_Hitbox",
     "eventList": [
         {
             "id": "9c63bc15-f74a-4b34-baad-a06777710619",

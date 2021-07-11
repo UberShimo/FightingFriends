@@ -338,7 +338,7 @@
             "Key": "1bc86e08-f9a4-49db-beb0-32e399215699",
             "Value": {
                 "id": "e4e6f17a-a304-49fc-bed7-e2d83b1af579",
-                "resourcePath": "sprites\\Spr_Sol_Ability\\Spr_Sol_Ability.yy",
+                "resourcePath": "sprites\\Spr_Sol_Spin\\Spr_Sol_Spin.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1114,7 +1114,7 @@
             "Key": "65181971-6026-44b2-a3e7-d038686c8595",
             "Value": {
                 "id": "b0e099e8-ebb6-4194-aa61-49e999c3f2d6",
-                "resourcePath": "sprites\\Spr_Sol_AbilityStart\\Spr_Sol_AbilityStart.yy",
+                "resourcePath": "sprites\\Spr_Sol_SpinStart\\Spr_Sol_SpinStart.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2138,7 +2138,7 @@
             "Key": "d3e5a383-f0e6-4740-958a-1eb93ce0e76f",
             "Value": {
                 "id": "bb2e446a-90c5-4029-8f91-4045b8710c6d",
-                "resourcePath": "objects\\Obj_Sol_Ability_Hitbox\\Obj_Sol_Ability_Hitbox.yy",
+                "resourcePath": "objects\\Obj_Sol_Spin_Hitbox\\Obj_Sol_Spin_Hitbox.yy",
                 "resourceType": "GMObject"
             }
         },

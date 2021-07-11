@@ -2,7 +2,7 @@
     "id": "65181971-6026-44b2-a3e7-d038686c8595",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "Spr_Sol_AbilityStart",
+    "name": "Spr_Sol_SpinStart",
     "For3D": false,
     "HTile": false,
     "VTile": false,

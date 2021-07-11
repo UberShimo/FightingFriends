@@ -1,3 +1,3 @@
 event_inherited();
 
-dmg = 6;
+dmg = 4;

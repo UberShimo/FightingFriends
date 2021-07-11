@@ -35,7 +35,7 @@ if(controllable){
 		}
 	}
 	// Sols ability movement
-	else if(action == "ability" && sprite_index == Spr_Sol_Ability){
+	else if(action == "spin" && sprite_index == Spr_Sol_Spin){
 		// Right
 		if(right_check && !left_check){
 			x += ms;
@@ -67,25 +67,35 @@ if(controllable){
 			alarm[3] = 8;
 			alarm[0] = image_number * 4;
 		}
-		// Standing
+		// Standing, start charge spin kicks!
 		else{
-			action = "kick";
-			sprite_index = Spr_Sol_Kick;
+			action = "spin";
+			isChargingAttack = true;
+			sprite_index = Spr_Sol_SpinStart;
 			image_index = 0;
 		
-			alarm[3] = 8;
-			alarm[0] = image_number * 4;
+			alarm[3] = image_number * 4;
+			alarm[0] = 96; // spins = (frames - 32) / 16
 		}
+	}
+	
+	// Stop charge and do a normal kick
+	if(isChargingAttack && !attack_check){
+		action = "kick";
+		isChargingAttack = false;
+		sprite_index = Spr_Sol_Kick;
+		image_index = 0;
+		
+		alarm[3] = 8;
+		alarm[0] = image_number * 4;
 	}
 
 	// Ability
-	if(ability_check && abilityReady && action == "none" && !place_free(x, y+2)){
-		action = "ability";
-		sprite_index = Spr_Sol_AbilityStart;
-		image_index = 0;
-		
-		alarm[3] = 32;
-		alarm[0] = 112; // spins = (frames - 32) / 16
+	if(ability_check && abilityReady){
+		abilityReady = false;
+		isDissapearing = true;
+		alarm[1] = cd;
+		alarm[11] = 120;
 	}
 }
 

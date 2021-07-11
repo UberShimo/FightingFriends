@@ -15,19 +15,14 @@ else if(action == "divekick"){
 	hitbox.spawner = 2;
 	hitbox.image_xscale = image_xscale;
 }
-else if(action == "ability"){
-	sprite_index = Spr_Sol_Ability;
+else if(action == "spin"){
+	sprite_index = Spr_Sol_Spin;
 	image_index = 0;
 	
-	hitbox = instance_create_depth(x, y, 0, Obj_Sol_Ability_Hitbox);
+	hitbox = instance_create_depth(x, y, 0, Obj_Sol_Spin_Hitbox);
 	hitbox.spawner = 2;
 	hitbox.image_xscale = image_xscale;
 	
+	isChargingAttack = false;
 	alarm[3] = 16;
-	
-	if(abilityReady){
-		abilityReady = false;
-		alarm[1] = cd;
-	}
-		
 }
