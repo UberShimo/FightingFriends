@@ -1,0 +1,2 @@
+description = "SEBBE\n\nCant attack... Only magic instead :(\nHe can create a black hole that you can teleport to!\nJust reactivate ability and watch you dive into darkness...";
+//            |					width measurement					|

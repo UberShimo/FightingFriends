@@ -1,0 +1,2 @@
+description = "JENNY\n\nGroovy!\nCant standing still!\nShe dances and pumps herself up!\nMaking her next attack stronger :o\nHer ability doesnt drain her dance bar ;)";
+//            |					width measurement					|

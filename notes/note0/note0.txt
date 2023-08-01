@@ -1,0 +1,72 @@
+TODO{
+	Porträtt med en liten prat bubbla där man beskriver sig i själv i character select.
+}
+
+Attack ideas:
+
+???:
+Shoot projectile that slows.
+Longer sword attack.
+
+???:
+Levetate magic orb.
+Has an orb that moves right / left on your inputs.
+Wizard lookin. Hit with stick. Uppercut is lightning.
+
+???:
+Throw poison dart. Perma poisoned....
+Ducking and jumping jumps really high
+
+TYPES{
+	Balanced:
+	Stickman
+	Simon
+	LilLucas
+	William
+	Smulan
+	Clara
+	
+	Power:
+	Lucas
+	Anders
+	Charlotte
+	Jenny
+	
+	Agile:
+	Victor
+	Christian
+	David
+	Sol
+	Mattias
+	
+	Zoner:
+	Felix
+	Kiki
+	Rebecca
+	Pontus
+	Sebbe
+}
+
+HurtBoxes:
+x: 192 / 320 (DiveKick:511)
+y: 128 (Ducking: 256) / 512
+
+Frames{
+	Kick: 8 / 24
+	Uppercut: 8 / 24
+	DiveKick: slight jump height / until landing
+}
+
+Tips n tricks:
+Uppercut combo into Kick if close enough.
+Uppercut infinite against walls...
+
+
+Duration to create Smulan:
+Photo = 2 min
+Fix pics = 50 min
+Make sprites = 23 min
+Create unfunctional P1 = 18 min
+Test and fix the functional character = 11 min
+
+TOTAL = 104 min

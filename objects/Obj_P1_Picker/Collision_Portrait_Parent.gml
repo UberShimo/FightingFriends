@@ -1,0 +1,1 @@
+Obj_P1_Description.description = other.description;
